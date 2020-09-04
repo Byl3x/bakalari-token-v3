@@ -1,5 +1,3 @@
-#Fuck my life
-#Why tf do i even do this shit?
 import requests
 import time
 class BearerAuth(requests.auth.AuthBase):
